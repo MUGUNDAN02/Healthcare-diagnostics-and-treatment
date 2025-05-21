@@ -125,6 +125,34 @@ wearable devices and collect basic health-related information, provided such dev
 and user consent is granted. This achievement will lay the groundwork for deeper IoT integration and
 the utilization of real-time health data to enhance the AI assistant's capabilities in future phases.
 
+Data Security Implementation
+
+Overview
+
+Recognizing the highly sensitive nature of medical information, the implementation of robust data
+security measures is of paramount importance. Phase 3 will see the initial application of key security
+protocols,with a primary focus on basic encryption and the fundamental protection of all userprovided information. This phase establishes a secure foundation for handling sensitive health data.
+
+Implementation
+
+Encryption at Rest and in Transit: All data entered by users, including their described symptoms and
+any personal details,will be secured using basic encryption techniques bothwhen stored in the
+database (atrest) and during transmission (in transit). This measure helps to prevent unauthorized
+access and interception of sensitive information.
+
+Secure Data Storage: User datawill be storedwithin a secure database environmentwith strictly
+controlled access. Only authorized personnel and,where necessary andwith appropriate permissions,
+healthcare providerswill be granted access, ensuring adherence to fundamental data privacy
+regulations.
+
+Outcome
+
+By the completion of Phase 3,the AI system will securely store and manage all user-provided data,
+employing basic encryption methods to safeguard sensitive health information. This foundational level
+of securitywill provide a protected environmentfor userinteractions and data handling, setting the
+stage for more advanced security measures in subsequent development phases.
+
+
 Chatbot Performance Optimization
 
 Overview:
