@@ -70,6 +70,8 @@ Outcome:
 
 All vital parts of the system will be thoroughly documented, offering a distinct guide for subsequent development, implementation, or system expansion.
 
+Implementation of Project
+
 Chatbot Development
 
 Overview
@@ -152,6 +154,7 @@ employing basic encryption methods to safeguard sensitive health information. Th
 of securitywill provide a protected environmentfor userinteractions and data handling, setting the
 stage for more advanced security measures in subsequent development phases.
 
+Performance of the project
 
 Chatbot Performance Optimization
 
